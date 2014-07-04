@@ -1,8 +1,8 @@
 
 > ### What host are you on?
 
-	<em>Wendys-MacBook-Pro.local</em>
+	#### Wendys-MacBook-Pro.local
 
 > ### Are you on your local machine?
 
-	<em>Yes</em>
+	#### Yes
