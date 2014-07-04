@@ -1,7 +1,11 @@
----
-## pwd
-	**print working directory**
----
+
+> ## pwd
+
+	> print working directory
+	
+
+
+
 	
 
 
