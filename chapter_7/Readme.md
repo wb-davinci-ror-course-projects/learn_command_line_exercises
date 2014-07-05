@@ -6,7 +6,7 @@
 
 ####
 
->### Let"'"s clear out your log directory.
+>### Let's clear out your log directory.
 
 #### $
 
