@@ -49,15 +49,15 @@ $ cd ..
 
 >### cd to your Documents directory
 
-#### cd ~/Doc<tab>
+#### cd ~/Doc_tab_
 
 >### cd to your Downloads directory
 
-#### cd ~/Dow<tab>
+#### cd ~/Dow_tab_
 
 >### Find another directory with your file browser, then cd to it
 
-#### cd ~/d<tab>/Gra<tab>
+#### cd ~/d_tab_/Gra_tab_
 
 _~/danelec_photos/Grand Canyon$_
 
