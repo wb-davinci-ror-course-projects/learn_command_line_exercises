@@ -8,7 +8,7 @@
 
 ### Yes, by doing the follwoing...
 
-#### $ cd ~w<tab>/d<tab>
+#### $ cd ~w(tab)/d(tab)
 
 #### $ mkdir log
 
