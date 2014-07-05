@@ -44,7 +44,7 @@
 
 #### $ ls
 
-#### $ The Library directory contains files for settings of certain applications and resource files.
+#### _The Library directory contains files for settings of certain applications and resource files._
 
 
 
