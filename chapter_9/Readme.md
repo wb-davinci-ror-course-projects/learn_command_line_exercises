@@ -28,7 +28,7 @@
 
 #### $ ls -lR
 #### total 8
-testing
+#### testing
 #### -rw-r--r--  1 wb9753  staff  584 Jul  7 12:38 Readme.md
 #### -rw-r--r--  1 wb9753  staff    0 Jul  7 12:45 blah.txt
 #### -rw-r--r--  1 wb9753  staff    0 Jul  7 12:47 foo.txt
@@ -67,7 +67,7 @@ testing
 #### $ cd ..
 
 #### $ rmdir fruit
-rmdir: fruit: Directory not empty
+#### rmdir: fruit: Directory not empty
 
 #### The 'rmdir' command will not delete a directory with files in it. Delete 'apple' file and the go up a directory and delete 'fruit' directory.
 
