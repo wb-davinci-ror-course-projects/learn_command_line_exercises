@@ -69,7 +69,7 @@
 #### $ rmdir fruit
 #### rmdir: fruit: Directory not empty
 
-#### The 'rmdir' command will not delete a directory with files in it. Delete 'apple' file and the go up a directory and delete 'fruit' directory.
+>### The 'rmdir' command will not delete a directory with files in it. Delete 'apple' file and the go up a directory and delete 'fruit' directory.
 
 ##### $ pwd
 ##### /Users/wb9753/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_9
