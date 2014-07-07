@@ -2,41 +2,82 @@
 
 >### What does you log directory look like?
 
-#### $ ls
+#### /workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_6$ ls ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_6/log
 
-#### _log/_
+#### The log directory is empty
 
 >### Can you show me what files are in that directory?
 
-#### $ cd log
-
-#### $ ls
+#### ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_6/log$ ls
 
 #### _There are no files in that directory._
 
 >### What files are in you home directory?
 
-#### $ cd ~
+#### ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_6/log$ ~/workspace
 
-#### $ ls
+#### _There are just directories containing files in my home directory_ ...
 
-#### _There are just directories containing files in my home directory_
+Icon?
+Pivotal-Preferences-RubyMine/
+davinci_coders_t2_2014/
+tmp/
 
 >### What is in slash temp?
 
-#### $ /tmp
+#### ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_6$ ls /tmp
 
-#### _There are four launch... directories._
+#### /tmp@
 
 ## Do More
 
->### Describe what ls -1R does in the Readme.md (Do More section)
+>### Describe what ls -lR does in the Readme.md (Do More section)
 
-#### _It displays the next directories down in the tree, then the file path of the one after that and repeats until there are no more sub directories_
+#### The 'ls -lR'command returns the following output. It shows the directories and subdirectories and the permissions of their files, like: read, write and execute. 
+#### ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_6$ ls -lR
+total 8
+-rw-r--r--  1 wb9753  staff  949 Jul  6 19:23 Readme.md
+drwxr-xr-x  2 wb9753  staff   68 Jul  7 10:40 log/
+drwxr-xr-x  3 wb9753  staff  102 Jul  4 22:51 tmp/
+
+./log:
+
+./tmp:
+total 0
+drwxr-xr-x  3 wb9753  staff  102 Jul  4 22:51 stuff/
+
+./tmp/stuff:
+total 0
+drwxr-xr-x  3 wb9753  staff  102 Jul  4 22:51 things/
+
+./tmp/stuff/things:
+total 0
+drwxr-xr-x  3 wb9753  staff  102 Jul  4 22:51 frank/
+
+./tmp/stuff/things/frank:
+total 0
+drwxr-xr-x  3 wb9753  staff  102 Jul  4 22:51 joe/
+
+./tmp/stuff/things/frank/joe:
+total 0
+drwxr-xr-x  3 wb9753  staff  102 Jul  4 22:51 alex/
+
+./tmp/stuff/things/frank/joe/alex:
+total 0
+drwxr-xr-x  2 wb9753  staff  68 Jul  4 22:51 john/
+
+./tmp/stuff/things/frank/joe/alex/john:
 
 >### Use cd to get to other directories on your computer then use ls to see what is in them
 
-#### $ cd ~
+#### $ ls ~/L(tab)
+
+#### _The Library directory contains files for settings of certain applications and resource files._
+
+
+#### The ls ~/L(tab) command is much quicker than then using cd as the Do More question asks. For example answering the question using cd ...
+
+#### $ cd ~ 
 
 #### $ ls
 
@@ -44,7 +85,7 @@
 
 #### $ ls
 
-#### _The Library directory contains files for settings of certain applications and resource files._
+
 
 
 
