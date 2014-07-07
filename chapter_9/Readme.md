@@ -20,7 +20,7 @@
 #### $ touch foo.txt
 
 #### $ ls
-#### Readme.md  blah.txt   foo.txt
+#### Readme.md  blah.txt   foo.txt    tmp/
 
 >### What happens if you touch an existing file.
 
