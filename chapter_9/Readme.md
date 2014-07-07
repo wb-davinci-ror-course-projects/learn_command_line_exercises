@@ -19,35 +19,35 @@
 
 #### $ touch foo.txt
 
-#### ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_9$ ls
-Readme.md  blah.txt   foo.txt
+#### $ ls
+#### Readme.md  blah.txt   foo.txt
 
 >### What happens if you touch an existing file.
 
 #### All it seems to do is change the updated at time
 
 #### $ ls -lR
-total 8
+#### total 8
 testing
--rw-r--r--  1 wb9753  staff  584 Jul  7 12:38 Readme.md
--rw-r--r--  1 wb9753  staff    0 Jul  7 12:45 blah.txt
--rw-r--r--  1 wb9753  staff    0 Jul  7 12:47 foo.txt
+#### -rw-r--r--  1 wb9753  staff  584 Jul  7 12:38 Readme.md
+#### -rw-r--r--  1 wb9753  staff    0 Jul  7 12:45 blah.txt
+#### -rw-r--r--  1 wb9753  staff    0 Jul  7 12:47 foo.txt
 
 #### $ touch foo.txt
 
 #### $ ls -lR
-total 8
--rw-r--r--  1 wb9753  staff  584 Jul  7 12:38 Readme.md
--rw-r--r--  1 wb9753  staff    0 Jul  7 12:45 blah.txt
--rw-r--r--  1 wb9753  staff    0 Jul  7 12:49 foo.txt
+#### total 8
+####-rw-r--r--  1 wb9753  staff  584 Jul  7 12:38 Readme.md
+#### -rw-r--r--  1 wb9753  staff    0 Jul  7 12:45 blah.txt
+#### -rw-r--r--  1 wb9753  staff    0 Jul  7 12:49 foo.txt
 
 #### $ cat foo.txt
-testing touch same file
+#### testing touch same file
 
 #### $ touch foo.txt
 
 #### $ cat foo.txt
-testing touch same file
+#### testing touch same file
 
 
 
