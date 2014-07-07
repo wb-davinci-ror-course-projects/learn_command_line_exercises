@@ -1,21 +1,21 @@
 ## Task - Answer 'english' questions
 
->### 1) What directory are you in?
+1) What directory are you in?
 
-#### /workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_2
+*/chapter_2*
 
->### 2) Are you in the class directory?
+2) Are you in the class directory?
 
-#### No, I'm in a subdirectory
+*Yes, I'm in a subdirectory of the class directory*
 
->### 3) Are you in your home directory?
+3) Are you in your home directory?
 
-#### No, I'm in a subdirectory
+*Yes, I'm in a subdirectory of the home directory*
 
 
->### 4) What directory did you run that command in?
+4) What directory did you run that command in?
 
-#### /workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_2
+*/chapter_2*
 
 ----------------------------------------------------------------------
 
