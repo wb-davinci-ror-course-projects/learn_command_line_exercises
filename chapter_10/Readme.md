@@ -7,6 +7,8 @@
 $ pwd
 /Users/wb9753/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_10
 
+_all following commands start in this directory_
+
 #### $ cp foo.txt tmp/
 
 #### $ ls tmp/

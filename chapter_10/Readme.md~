@@ -19,7 +19,8 @@ foo.txt      neat.txt     something/
 
 #### $ cp ~/.bash_profile ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_10
 
-$                                                       cat .bash_profile
+#### $ cat .bash_profile
+
 [[ -s "$HOME/.profile" ]] && source "$HOME/.profile" # Load the default .profile
 
 if [ -f ~/.bashrc ]; then
