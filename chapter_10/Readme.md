@@ -1,11 +1,11 @@
 # Chapter 10
 
-$ pwd
-/Users/wb9753/workspace/davinci_coders_t2_2014/learn_command_line_exercises/
-
 ## English Questions
 
 >### Can you copy the foo.txt file to slash temp? (Create foo.txt first...)
+
+$ pwd
+/Users/wb9753/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_10
 
 #### $ cp foo.txt tmp/
 
@@ -17,7 +17,7 @@ foo.txt      neat.txt     something/
 
 #### Yes
 
-#### $ cp ~/.bash_profile  ~/workspace/davinci_coders_t#### 2_2014/learn_command_line_exercises/chapter_10
+#### $ cp ~/.bash_profile ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_10
 
 $                                                       cat .bash_profile
 [[ -s "$HOME/.profile" ]] && source "$HOME/.profile" # Load the default .profile
@@ -40,11 +40,12 @@ fi
 
 $ pwd
 /Users/wb9753/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_10/tmp/
+
 _all following commands start in this directory_
 
 >### Use the cp -r command to copy more directories with files in them.
 
-#### cp -r something ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_10/new_dir/
+#### $ cp -r something ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_10/new_dir
 
 #### _I copied the something directory to the chapter_10 directory and named it new_dir in the process
 
@@ -53,9 +54,9 @@ _all following commands start in this directory_
 
 >### Copy a file to your home directory or desktop.
 
-#### $ cp awesome.txt ~/workspace/
+#### $ cp awesome.txt ~/workspace
 
-#### $ ls ~/workspace/
+#### $ ls ~/workspace
 Icon?
 Pivotal-Preferences-RubyMine/
 awesome.txt
@@ -65,8 +66,5 @@ tmp/
 
 >### Find these files in your graphical user interface and open them in a text editor.
 
-#### Finder, home directory, workpace folder, davinci_coders_t2_2014 folder, learn_command_line_exercises folder, chapter_10 folder, option key + right click, open with, other, in App. folder, RubyMine.app, open
+#### Finder, home directory, workpace folder, davinci_coders_t2_2014 folder, learn_command_line_exercises folder, chapter_10 folder, awesome.txt, option key + right click, open with, other, in App. folder, RubyMine.app, open
 
->### Notice how sometimes I put a / (slash) at the end of a directory? That makes sure the file is really a directory, so if the directory doesn't exist I'll get an error.
-
-####
