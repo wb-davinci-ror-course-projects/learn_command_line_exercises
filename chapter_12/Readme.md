@@ -4,11 +4,11 @@
 
 >### Can we see what's in our production log?
 
-#### 
+#### $ more production.log
 
 >### What does our database.yml look like?
 
-####
+#### $ less database.yml
 
 ## Do More
 
