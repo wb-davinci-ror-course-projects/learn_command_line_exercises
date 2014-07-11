@@ -4,7 +4,7 @@
 
 >### How big are your log files?
 
-#### $ ls ~/*.log
+#### $ ls ~/*.log -lR
 
 >### Can you output all the text files in this directory?
 
