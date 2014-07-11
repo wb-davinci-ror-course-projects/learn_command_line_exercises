@@ -20,7 +20,10 @@ gem 'guard-rubocop'
 
 >### Try cat ex12.txt
 
-#### ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_12/tmp$ cat ex12.txt
+$ pwd
+/Users/wb9753/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_12
+
+#### $ cat ex12.txt
 Top
 
 This is some text to play around with
