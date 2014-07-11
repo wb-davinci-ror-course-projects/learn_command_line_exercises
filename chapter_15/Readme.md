@@ -11,6 +11,7 @@
 #### $ echo "gem 'debugger'" >> Gemfile
 
 note: I couldn't get it to work using cat
+Would it be: $ cat debugger_file_name >> Gemfile
 
 ## Do More
 
