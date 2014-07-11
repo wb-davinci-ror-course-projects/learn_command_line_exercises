@@ -8,7 +8,10 @@
 
 >### What is in your Gemfile?
 
-#### ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_13$ <em>cat ~/workspace/davinci_coders_t2_2014/lrthw_exercises/Gemfile<em>
+$ pwd
+/Users/wb9753/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_13
+
+#### $ cat ~/workspace/davinci_coders_t2_2014/lrthw_exercises/Gemfile
 source 'https://rubygems.org'
 
 gem 'guard-rubocop'
