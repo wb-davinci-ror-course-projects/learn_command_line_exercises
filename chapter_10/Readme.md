@@ -9,7 +9,7 @@ $ pwd
 
 _all following commands start in this directory_
 
-#### $ cp foo.txt tmp/
+#### $ cp foo.txt /tmp/
 
 #### $ ls tmp/
 awesome.txt  iamcool.txt  newplace/
@@ -19,7 +19,7 @@ foo.txt      neat.txt     something/
 
 #### Yes
 
-#### $ cp ~/.bash_profile ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_10
+#### $ cp ~/.bash_profile .
 
 #### $ cat .bash_profile
 
