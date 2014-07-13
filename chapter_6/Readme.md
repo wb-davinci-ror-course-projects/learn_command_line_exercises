@@ -2,9 +2,7 @@
 
 >### What does you log directory look like?
 
-#### /workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_6$ ls ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_6/log
-
-#### The log directory is empty
+#### $ ls log
 
 >### Can you show me what files are in that directory?
 
@@ -14,7 +12,7 @@
 
 >### What files are in you home directory?
 
-#### ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_6/log$ ~/workspace
+#### ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_6/log$ ls ~/workspace
 
 #### _There are just directories containing files in my home directory_ ...
 
