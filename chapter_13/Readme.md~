@@ -96,11 +96,12 @@ This is some text to play around with
 
 >### Try cat ex13.txt
 
-#### ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_13/tmp$ vim ex13.txt
-~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_13/tmp$ cat ex13.txt
+$ pwd
+/Users/wb9753/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_13/tmp
+
+#### $ cat ex13.txt
 I am a fun guy
 Don't you know why?
 Because I make poems,
 that make babies cry.
 
-~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_13/tmp$
