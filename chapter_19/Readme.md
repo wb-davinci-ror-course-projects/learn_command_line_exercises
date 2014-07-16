@@ -2,23 +2,25 @@
 
 >### What option to ls tells it to output file size in human readable form?
 
-####
+#### -l
 
 >### Is there a case insensitive option to grep?
 
-####
+#### -i
 
 >### What does the -r and -f options to rm do exactly?
 
-####
+#### -f overrides any warnings or permission denials that may come up and forces the removal of the file
 
 >### What does the ifconfig command do?
 
-####
+#### It configures a network interface, setting an address and parameters.
 
 ## Do More
 
 >### Use man or help to look at every one of the commands you have in your list to memorize.
+
+note for the following: I just made some notes of options I thought might be useful for some of the commands
 
 $ man pwd
 $ man hostname
@@ -85,14 +87,60 @@ $ man less
 $ man cat
 $ man xargs
 $ man find
+	$ find -s chapter_*/*.md
+	chapter_1/Readme.md
+	chapter_10/Readme.md
+	chapter_11/Readme.md
+	chapter_12/Readme.md
+	chapter_13/Readme.md
+	chapter_14/Readme.md
+	chapter_15/Readme.md
+	chapter_16/Readme.md
+	chapter_17/Readme.md
+	chapter_18/Readme.md
+	chapter_19/Readme.md
+	chapter_2/Readme.md
+	chapter_20/Readme.md
+	chapter_21/Readme.md
+	chapter_22/Readme.md
+	chapter_23/Readme.md
+	chapter_3/Readme.md
+	chapter_4/Readme.md
+	chapter_5/Readme.md
+	chapter_6/Readme.md
+	chapter_7/Readme.md
+	chapter_8/Readme.md
+	chapter_9/Readme.md
 $ man grep
+	$ grep 'Chapter' chapter_*/*.md* --exclude *~
+	chapter_10/Readme.md:# Chapter 10
+	chapter_11/Readme.md:# Chapter 11
+	chapter_12/Readme.md:# Chapter 12
+	chapter_13/Readme.md:# Chapter 13
+	chapter_14/Readme.md:# Chapter 14
+	chapter_15/Readme.md:# Chapter 15
+	chapter_16/Readme.md:# Chapter 16
+	chapter_17/Readme.md:# Chapter 17
+	chapter_18/Readme.md:# Chapter 18
+	chapter_20/Readme.md:# Chapter 20
+	chapter_21/Readme.md:# Chapter 21
+	chapter_22/Readme.md:# Chapter 22
+	chapter_23/Readme.md:# Chapter 23
+	chapter_9/Readme.md:# Chapter 9
+
 $ man man
 $ man apropos
 $ man env
 $ man echo
+	$ echo -n > file_1.txt
+	$ cat file_1.txt
+	$
+	note:  -n can be used to clear out a file instead of deleting the file
 $ man export
 $ man exit
 $ man sudo
 $ man chmod
+	$ chmod -v 755 file_1.txt 
+	file_1.txt
 $ man chown
 
