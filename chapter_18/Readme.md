@@ -44,7 +44,7 @@ Unix:
  
 #### The following command is using grep to find the files I used 'Do More' as a section title and any other time it shows up in a Readme.md file within the chapter directories
 
-#### $ grep 'Do More' chapter_*/*.md
+#### $ grep 'Do More' chapter_\*/\*.md
 chapter_10/Readme.md:## Do More
 chapter_11/Readme.md:## Do More
 chapter_12/Readme.md:## Do More
