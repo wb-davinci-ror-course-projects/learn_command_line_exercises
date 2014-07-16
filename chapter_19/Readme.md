@@ -24,17 +24,17 @@
 
 note for the following: I just made some notes of options I thought might be useful for some of the commands
 
-$ man pwd
-$ man hostname
+#### $ man pwd
+#### $ man hostname
 	$ hostname
 	Wendys-MacBook-Pro.local
 	$ hostname -s
 	Wendys-MacBook-Pro
-$ man mkdir
+#### $ man mkdir
 	$ mkdir -v new_dir
 	mkdir: created directory 'new_dir'
-$ man cd
-$ man ls
+#### $ man cd
+#### $ man ls
 	$ pwd
 	/Users/wb9753/workspace/davinci_coders_t2_2014/	       
 	learn_command_line_exercises
@@ -76,19 +76,19 @@ $ man ls
 	chapter_8/  README.md   chapter_3/  chapter_6/  chapter_18/
 	chapter_2/  chapter_9/  chapter_14/ chapter_10/ chapter_19/
 
-$ man rmdir
-$ man pushd
-$ man popd
-$ man cp
-$ man mv
+#### $ man rmdir
+#### $ man pushd
+#### $ man popd
+#### $ man cp
+#### $ man mv
 	$ mv -v file_2 ..
 	file_2 -> ../file_2
-$ man less
+#### $ man less
 	$ less Readme.md
 	note: by typing 'v' before exiting invokes vim to edit file
-$ man cat
-$ man xargs
-$ man find
+#### $ man cat
+#### $ man xargs
+#### $ man find
 	$ find -s chapter_*/*.md
 	chapter_1/Readme.md
 	chapter_10/Readme.md
@@ -113,7 +113,7 @@ $ man find
 	chapter_7/Readme.md
 	chapter_8/Readme.md
 	chapter_9/Readme.md
-$ man grep
+#### $ man grep
 	$ grep 'Chapter' chapter_*/*.md* --exclude *~
 	chapter_10/Readme.md:# Chapter 10
 	chapter_11/Readme.md:# Chapter 11
@@ -130,19 +130,19 @@ $ man grep
 	chapter_23/Readme.md:# Chapter 23
 	chapter_9/Readme.md:# Chapter 9
 
-$ man man
-$ man apropos
-$ man env
-$ man echo
+#### $ man man
+#### $ man apropos
+#### $ man env
+#### $ man echo
 	$ echo -n > file_1.txt
 	$ cat file_1.txt
 	$
 	note:  -n can be used to clear out a file instead of deleting the file
-$ man export
-$ man exit
-$ man sudo
-$ man chmod
+#### $ man export
+#### $ man exit
+#### $ man sudo
+#### $ man chmod
 	$ chmod -v 755 file_1.txt 
 	file_1.txt
-$ man chown
+#### $ man chown
 
