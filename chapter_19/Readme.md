@@ -12,6 +12,8 @@
 
 #### -f overrides any warnings or permission denials that may come up and forces the removal of the file
 
+#### -r it will will remove a directory and it's contents without having to delete the contents first
+
 >### What does the ifconfig command do?
 
 #### It configures a network interface, setting an address and parameters.
