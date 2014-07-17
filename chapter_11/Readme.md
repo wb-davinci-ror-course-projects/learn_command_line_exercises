@@ -35,7 +35,6 @@ newplace/   uncool.txt
 #### $ ls
 uncool.txt
 
-#### $ ls ~/workspace/davinci_coders_t2_2014/learn_command_line_exercises/chapter_11
-newplace/ tmp/
+#### $ ls .. tmp/
 
 

@@ -1,3 +1,5 @@
+# Chapter 4
+
 > ## Can you make a temp directory?
 
 ### Yes, by doing the following...

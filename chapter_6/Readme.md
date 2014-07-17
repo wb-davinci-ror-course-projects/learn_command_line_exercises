@@ -1,3 +1,5 @@
+# Chapter 6
+
 ## English Questions (add command used)
 
 >### What does you log directory look like?
