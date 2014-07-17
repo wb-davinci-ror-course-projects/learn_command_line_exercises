@@ -52,7 +52,7 @@ _http://www.cyberciti.biz/faq/set-environment-variable-unix/_
 ##### Sets the patch to the previous directory
 
 #### EDITOR
-##### The editor program called by sudoedit, vipw, and other such programs when you tell them to edit a file.
+##### Sets the editor program to be used in this case it is set to the vim editor
 
 #### LANG
 ##### Sets the language .. en_US.UTF-8 for US English
