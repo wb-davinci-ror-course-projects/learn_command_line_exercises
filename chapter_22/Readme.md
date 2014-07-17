@@ -43,7 +43,7 @@ _http://www.cyberciti.biz/faq/set-environment-variable-unix/_
 ##### Sets the name of the User
 
 #### PATH
-##### It is a list of the directory paths. A space or colon separated list of directories in which the shell searches for executables when a command is run without an absolute path.
+##### It is a list of the directory paths for when there is not an abosolute path
 
 #### PWD
 ##### Sets the path to current directory.
