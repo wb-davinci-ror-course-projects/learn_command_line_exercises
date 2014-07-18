@@ -4,17 +4,18 @@
 
 >### Can you show me all the files in slash temp slash foo?
 
-#### find tmp/foo -name "*" -print
+#### $ find tmp/foo/ -name "*" -print
 
 >### What log files are in your log directory?
 
-#### find log/ -name "*.log" -print
+#### $ find log/ -name "*.log" -print
 
 >### Run find in the class directory, pipe the output to pbcopy and create a gist with the content.  Paste the Gist URL as a comment on this story.
 
-#### find workspace/ -name "*" -print | pbcopy
 
-#### https://gist.github.com/a90c894b3954990db926.git
+#### $ find /Users/wb9753/workspace/davinci_coders_t2_2014/ -print | pbcopy
+
+#### https://gist.github.com/be2bd3faba7c935e2160
 
 ## Do More
 
