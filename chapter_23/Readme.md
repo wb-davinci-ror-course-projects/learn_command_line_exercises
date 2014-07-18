@@ -29,7 +29,7 @@ from: http://ss64.com/osx/ and http://www.computerhope.com/unix/uchown.htm
 
 #### The following command finds files named Readme.md~ and deletes them, that are in or below the home '~' directory
 
-#### find /~ -name Readme.md~ -type f -print | xargs /bin/rm -f
+#### $ find /~ -name Readme.md~ -type f -print | xargs /bin/rm -f
 
 >### sudo
 
@@ -39,7 +39,7 @@ from: http://ss64.com/osx/ and http://www.computerhope.com/unix/uchown.htm
 
 #### Change access permissions, make files executable
 
-#### chmod 755 some_file 
+#### $ chmod 755 some_file 
 
 >### chown
 
