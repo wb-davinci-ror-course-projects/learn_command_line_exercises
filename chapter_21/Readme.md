@@ -4,12 +4,12 @@
 
 >### What is your shell set to?
 
-#### $ env
+#### $ env | grep SHELL
      SHELL=/bin/bash
 
 >### What directory are you in (don't use pwd this time)?
 
-#### $ env
+#### $ env | grep PWD
      PWD=/Users/wb9753	
 
 >### What is your home directory set to?
