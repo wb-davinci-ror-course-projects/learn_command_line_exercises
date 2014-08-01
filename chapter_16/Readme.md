@@ -12,7 +12,7 @@
 
 >### Show me the text files in slash temp.
 
-#### $ ls ~/tmp/*.txt
+#### $ ls /tmp/*.txt
 
 ## Do More
 
