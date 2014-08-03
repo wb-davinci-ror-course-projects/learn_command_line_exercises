@@ -31,9 +31,4 @@
 #### $ vim .bash_profile
 	add to file:
 
-	export PATH=/bin/Users/wb9753/.rvm/gems/ruby-2.1.2/bin:/Users/wb9753/
-	.rvm/gems/ruby-2.1.2@global/bin:/Users/wb9753/.rvm/rubies/ruby-2.1.2/
-	bin:/usr/local/heroku/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbi
-	n:/Users/wb9753/.rvm/bin
-      :wq
-
+##### export PATH=/Users/wb9753/bin/.rvm/gems/ruby-2.1.2/bin:/Users/wb9753/.rvm/gems/ruby-2.1.2@global/bin:/Users/wb9753/.rvm/rubies/ruby-2.1.2/bin:/usr/local/heroku/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/wb9753/.rvm/bin
